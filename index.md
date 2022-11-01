@@ -20,7 +20,7 @@ A time series is defined as a set of random variables ordered with respect to ti
 
 
 
-</br>
+<br>
 
 
 ## Name
