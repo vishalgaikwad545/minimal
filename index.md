@@ -16,7 +16,11 @@ Time Series Model
 A time series is defined as a set of random variables ordered with respect to time. Time series are studied both to interpret a phenomenon, identifying the components of a trend, cyclicity, seasonality and to predict its future values.
 
 
-
+<br> </br>
+<br> </br>
+<br> </br>
+<br> </br>
+<br> </br>
 
 
 ## Name
