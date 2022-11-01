@@ -1,6 +1,7 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+title: Vishal Gaikwad
+logo: /assets/img/Vishal_Photo.jpg
+description: I'm working on Data science and Machine larning related problems.
+Working with Harman connected services as Data Analyst.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
