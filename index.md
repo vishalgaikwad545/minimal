@@ -14,3 +14,16 @@ Fraud Detection Using Machine Learning deploys a machine learning (ML) model and
 Time Series Model
 
 A time series is defined as a set of random variables ordered with respect to time. Time series are studied both to interpret a phenomenon, identifying the components of a trend, cyclicity, seasonality and to predict its future values.
+
+
+
+
+
+## Name
+Vishal Gaikwad.
+
+## Skills
+Python, Plsql, Shell script.
+
+## Date of Birth
+22nd September, 1995.
